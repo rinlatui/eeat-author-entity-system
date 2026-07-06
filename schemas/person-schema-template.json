@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://example.com/author/author-name/#person",
+  "name": "Author Name",
+  "url": "https://example.com/author/author-name/",
+  "image": "https://example.com/path/to/author-image.jpg",
+  "jobTitle": "Technical SEO Specialist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Organization Name",
+    "url": "https://example.com/"
+  },
+  "sameAs": [
+    "https://github.com/example",
+    "https://www.linkedin.com/in/example/"
+  ],
+  "knowsAbout": [
+    "Technical SEO",
+    "WordPress SEO",
+    "Schema Markup"
+  ]
+}

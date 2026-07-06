@@ -1,0 +1,31 @@
+.eeat-author-box,
+.eeat-reviewer-box {
+    display: flex;
+    gap: 16px;
+    padding: 20px;
+    margin: 28px 0;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    background: #ffffff;
+}
+
+.eeat-author-label,
+.eeat-reviewer-label {
+    margin: 0 0 6px;
+    font-size: 13px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: #64748b;
+}
+
+.eeat-author-box h3,
+.eeat-reviewer-box h3 {
+    margin: 0 0 8px;
+}
+
+.eeat-author-box p,
+.eeat-reviewer-box p {
+    margin: 0 0 8px;
+    line-height: 1.65;
+}

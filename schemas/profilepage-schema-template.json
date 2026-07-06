@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "https://example.com/author/author-name/#profile-page",
+  "url": "https://example.com/author/author-name/",
+  "name": "Author Name - Author Profile",
+  "mainEntity": {
+    "@id": "https://example.com/author/author-name/#person"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Website Name",
+    "url": "https://example.com/"
+  }
+}
